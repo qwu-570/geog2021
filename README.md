@@ -41,7 +41,9 @@ Different arrangements for JYA/Socrates (make sure you inform the lecturers if t
 
 
 The practicals for this module consists of the following practices and a coursework project:
-Practical #0 Introductory Computing:
+
+Practical #0 Introductory Computing: https://github.com/qwu-hab/geog2021/blob/master/Prac0.ipynb
+
 Practical #1 Image Display:
 Practical #2 Spatial Filtering:
 Practical #3 Classification:
