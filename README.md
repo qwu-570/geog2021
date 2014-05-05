@@ -1,7 +1,5 @@
-geog2021
-========
-
 UCL GEOG2021 Environmental Remote Sensing
+========
 
 Educational Aims and Objectives
 
